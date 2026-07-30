@@ -1,0 +1,120 @@
+  File "/home/junglee01/money-maker/engine.py", line 711
+    const b=document.getElementById("chat-box");
+    ^^^^^^^
+SyntaxError: invalid syntax. Perhaps you forgot a comma?
+  File "/home/junglee01/money-maker/engine.py", line 711
+    const b=document.getElementById("chat-box");
+    ^^^^^^^
+SyntaxError: invalid syntax. Perhaps you forgot a comma?
+  File "/home/junglee01/money-maker/engine.py", line 711
+    const b=document.getElementById("chat-box");
+    ^^^^^^^
+SyntaxError: invalid syntax. Perhaps you forgot a comma?
+  File "/home/junglee01/money-maker/engine.py", line 711
+    const b=document.getElementById("chat-box");
+    ^^^^^^^
+SyntaxError: invalid syntax. Perhaps you forgot a comma?
+  File "/home/junglee01/money-maker/engine.py", line 711
+    const b=document.getElementById("chat-box");
+    ^^^^^^^
+SyntaxError: invalid syntax. Perhaps you forgot a comma?
+  File "/home/junglee01/money-maker/engine.py", line 711
+    const b=document.getElementById("chat-box");
+    ^^^^^^^
+SyntaxError: invalid syntax. Perhaps you forgot a comma?
+  File "/home/junglee01/money-maker/engine.py", line 711
+    const b=document.getElementById("chat-box");
+    ^^^^^^^
+SyntaxError: invalid syntax. Perhaps you forgot a comma?
+  File "/home/junglee01/money-maker/engine.py", line 711
+    const b=document.getElementById("chat-box");
+    ^^^^^^^
+SyntaxError: invalid syntax. Perhaps you forgot a comma?
+  File "/home/junglee01/money-maker/engine.py", line 711
+    const b=document.getElementById("chat-box");
+    ^^^^^^^
+SyntaxError: invalid syntax. Perhaps you forgot a comma?
+  File "/home/junglee01/money-maker/engine.py", line 711
+    const b=document.getElementById("chat-box");
+    ^^^^^^^
+SyntaxError: invalid syntax. Perhaps you forgot a comma?
+  File "/home/junglee01/money-maker/engine.py", line 711
+    const b=document.getElementById("chat-box");
+    ^^^^^^^
+SyntaxError: invalid syntax. Perhaps you forgot a comma?
+  File "/home/junglee01/money-maker/engine.py", line 711
+    const b=document.getElementById("chat-box");
+    ^^^^^^^
+SyntaxError: invalid syntax. Perhaps you forgot a comma?
+  File "/home/junglee01/money-maker/engine.py", line 711
+    const b=document.getElementById("chat-box");
+    ^^^^^^^
+SyntaxError: invalid syntax. Perhaps you forgot a comma?
+  File "/home/junglee01/money-maker/engine.py", line 711
+    const b=document.getElementById("chat-box");
+    ^^^^^^^
+SyntaxError: invalid syntax. Perhaps you forgot a comma?
+  File "/home/junglee01/money-maker/engine.py", line 711
+    const b=document.getElementById("chat-box");
+    ^^^^^^^
+SyntaxError: invalid syntax. Perhaps you forgot a comma?
+  File "/home/junglee01/money-maker/engine.py", line 711
+    const b=document.getElementById("chat-box");
+    ^^^^^^^
+SyntaxError: invalid syntax. Perhaps you forgot a comma?
+  File "/home/junglee01/money-maker/engine.py", line 722
+    const b=document.getElementById("chat-box");
+    ^^^^^^^
+SyntaxError: invalid syntax. Perhaps you forgot a comma?
+  File "/home/junglee01/money-maker/engine.py", line 722
+    var b=document.getElementById("chat-box");
+    ^^^^^
+SyntaxError: invalid syntax. Perhaps you forgot a comma?
+  File "/home/junglee01/money-maker/engine.py", line 722
+    var b=document.getElementById("chat-box");
+    ^^^^^
+SyntaxError: invalid syntax. Perhaps you forgot a comma?
+  File "/home/junglee01/money-maker/engine.py", line 722
+    var b=document.getElementById("chat-box");
+    ^^^^^
+SyntaxError: invalid syntax. Perhaps you forgot a comma?
+  File "/home/junglee01/money-maker/engine.py", line 722
+    var b=document.getElementById("chat-box");
+    ^^^^^
+SyntaxError: invalid syntax. Perhaps you forgot a comma?
+  File "/home/junglee01/money-maker/engine.py", line 722
+    var b=document.getElementById("chat-box");
+    ^^^^^
+SyntaxError: invalid syntax. Perhaps you forgot a comma?
+  File "/home/junglee01/money-maker/engine.py", line 722
+    var b=document.getElementById("chat-box");
+    ^^^^^
+SyntaxError: invalid syntax. Perhaps you forgot a comma?
+  File "/home/junglee01/money-maker/engine.py", line 722
+    var b=document.getElementById("chat-box");
+    ^^^^^
+SyntaxError: invalid syntax. Perhaps you forgot a comma?
+  File "/home/junglee01/money-maker/engine.py", line 722
+    var b=document.getElementById("chat-box");
+    ^^^^^
+SyntaxError: invalid syntax. Perhaps you forgot a comma?
+  File "/home/junglee01/money-maker/engine.py", line 709
+    _html = (
+            ^
+SyntaxError: '(' was never closed
+  File "/home/junglee01/money-maker/engine.py", line 722
+    parts.append('      <input id="chat-input" type="text" placeholder="' + placeholder + '" onkeydown="if(event.key==='Enter')sendChat()">')
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+SyntaxError: invalid syntax. Perhaps you forgot a comma?
+  File "/home/junglee01/money-maker/engine.py", line 722
+    parts.append('      <input id="chat-input" type="text" placeholder="' + placeholder + '" onkeydown="if(event.key==='Enter')sendChat()">')
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+SyntaxError: invalid syntax. Perhaps you forgot a comma?
+  File "/home/junglee01/money-maker/engine.py", line 711
+    '<div id="ai-chat" class="chat-widget">' + chr(10) +
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+SyntaxError: invalid syntax. Perhaps you forgot a comma?
+  File "/home/junglee01/money-maker/engine.py", line 240
+    continue  # try next model in chain
+    ^^^^^^^^
+SyntaxError: 'continue' not properly in loop
