@@ -1,0 +1,1 @@
+{"status":"ok","engine":"running","ollama":"connected","posts":38,"uptime":"check"}
