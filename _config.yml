@@ -1,0 +1,12 @@
+title: Paisa Pocket
+description: India ka apna money + tech guide
+baseurl: ""
+url: "https://bhaveshkumawat632.github.io"
+markdown: kramdown
+include:
+  - ads.txt
+  - affiliate-disclosure.html
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - README.md
