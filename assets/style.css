@@ -41,9 +41,9 @@ body::before{
   content:"";
   position:fixed;inset:0;z-index:-1;
   background:
-    radial-gradient(800px 600px at 90% -5%,rgba(91,140,255,.18),transparent 55%),
-    radial-gradient(700px 500px at -5% 10%,rgba(34,211,168,.14),transparent 50%),
-    radial-gradient(600px 400px at 50% 90%,rgba(255,176,32,.10),transparent 50%);
+    radial-gradient(700px 500px at 90% -5%,rgba(91,140,255,.14),transparent 55%),
+    radial-gradient(500px 350px at -5% 10%,rgba(34,211,168,.10),transparent 50%),
+    radial-gradient(500px 300px at 50% 90%,rgba(255,176,32,.08),transparent 50%);
   animation:bgPulse 8s ease-in-out infinite alternate;
 }
 @keyframes bgPulse{
@@ -573,10 +573,10 @@ footer.site a:hover{color:var(--fg)}
 
 /* ---------- Scroll Reveal ---------- */
 .reveal{
-  opacity:0;transform:translateY(30px);
+  opacity:0;transform:translateY(30px); will-change:transform,opacity;
   transition:opacity .7s ease,transform .7s ease;
 }
-.reveal.visible{opacity:1;transform:translateY(0)}
+.reveal.visible{opacity:1;transform:translateY(0);will-change:auto}
 
 /* ---------- Light Theme ---------- */
 :root[data-theme="light"]{
