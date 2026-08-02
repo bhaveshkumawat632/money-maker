@@ -45,6 +45,8 @@ body::before{
     radial-gradient(500px 350px at -5% 10%,rgba(34,211,168,.10),transparent 50%),
     radial-gradient(500px 300px at 50% 90%,rgba(255,176,32,.08),transparent 50%);
   animation:bgPulse 8s ease-in-out infinite alternate;
+  transform:translateZ(0);
+  will-change:opacity,transform;
 }
 @keyframes bgPulse{
   0%{opacity:.85;transform:scale(1)}
@@ -58,6 +60,8 @@ header.site{
   -webkit-backdrop-filter:var(--glass);
   background:rgba(7,9,15,.72);
   border-bottom:1px solid var(--line);
+  transform:translateZ(0);
+  will-change:transform;
 }
 .nav{
   max-width:1200px;margin:0 auto;
