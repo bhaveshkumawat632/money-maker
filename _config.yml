@@ -6,6 +6,7 @@ markdown: kramdown
 include:
   - ads.txt
   - affiliate-disclosure.html
+  - sitemap.xml
 exclude:
   - Gemfile
   - Gemfile.lock
