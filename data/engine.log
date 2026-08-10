@@ -3764,3 +3764,12 @@
 [2026-07-31 00:08:35] Rebuilt site with 38 posts (new template).
 [2026-07-31 00:09:01] Ollama unexpected error with deepseek-hermes:7b: timed out
 [2026-08-11 00:42:59] Ollama unexpected error with deepseek-hermes:7b: timed out
+[2026-08-11 00:49:59] Ollama unexpected error with deepseek-r1:7b: timed out
+[2026-08-11 00:52:43]   attempt 1: only 142 words, retrying...
+[2026-08-11 00:59:43] Ollama unexpected error with qwen2.5:7b: timed out
+[2026-08-11 01:06:43] Ollama unexpected error with deepseek-hermes:7b: timed out
+[2026-08-11 01:13:43] Ollama unexpected error with deepseek-r1:7b: timed out
+[2026-08-11 01:18:06]   quality score: 70/100, issues: ['Too short (<300 words)', 'Add more sections (## H2 headings)']
+[2026-08-11 01:18:06] Wrote static pages: privacy, disclaimer, about, contact, dashboard.
+[2026-08-11 01:18:06] Published: posts/hom-lon-byaaj-pr-ttaiks-bct-kaa-triikaa.html  (286 words)  total=901
+[2026-08-11 01:18:06] Sleeping 10 min until next article...

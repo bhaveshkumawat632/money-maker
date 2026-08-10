@@ -1,0 +1,14 @@
+# Secrets / local config
+.env
+
+# Python
+__pycache__/
+*.pyc
+
+# Runtime logs/state inside data/
+data/*.log
+data/*.pid
+data/*.out
+
+# Backups
+*.bak

@@ -298,3 +298,8 @@ indexnow (41 urls): HTTP 200 (200/202 = accepted)
 google ping: 404 (deprecated by Google — use Search Console)
 bing ping:   410 (deprecated — IndexNow above is what counts)
 [index Fri Jul 31 12:00:03 AM IST 2026] done url=https://bhaveshkumawat632.github.io count=41
+[index Tue Aug 11 01:00:01 AM IST 2026] live URL: https://bhaveshkumawat632.github.io
+indexnow (46 urls): HTTP 200 (200/202 = accepted)
+google ping: 404 (deprecated by Google — use Search Console)
+bing ping:   410 (deprecated — IndexNow above is what counts)
+[index Tue Aug 11 01:00:03 AM IST 2026] done url=https://bhaveshkumawat632.github.io count=46

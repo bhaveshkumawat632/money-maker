@@ -154,13 +154,6 @@
     "words": 629
   },
   {
-    "title": "होम लोन ब्याज पर टैक्स बचत का तरीका",
-    "slug": "hom-lon-byaaj-pr-ttaiks-bct-kaa-triikaa",
-    "ts": 1785235177.258551,
-    "date": "2026-07-28",
-    "words": 580
-  },
-  {
     "title": "क्रेडिट स्कोर (CIBIL) सुधारने के 7 तरीके",
     "slug": "kredditt-skor-cibil-sudhaarne-ke-7-triike",
     "ts": 1785259296.7551715,
@@ -264,5 +257,14 @@
     "ts": 1785426595.3004723,
     "date": "2026-07-30",
     "words": 567
+  },
+  {
+    "title": "होम लोन ब्याज पर टैक्स बचत का तरीका",
+    "slug": "hom-lon-byaaj-pr-ttaiks-bct-kaa-triikaa",
+    "ts": 1786391286.6542969,
+    "date": "2026-08-11",
+    "words": 286,
+    "quality": 70,
+    "tags": []
   }
 ]
