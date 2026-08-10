@@ -23,7 +23,10 @@
       "fallback_on_fail": true,
       "quality_gate": true,
       "min_quality_score": 60
-    }
+    },
+    "gemini_api_key": "__ENV_GEMINI_API_KEY__",
+    "gemini_model": "gemini-flash-latest",
+    "gemini_enabled": true
   },
   "niche": "indian-personal-finance-and-money-tools",
   "topics": [
