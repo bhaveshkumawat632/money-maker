@@ -3773,3 +3773,308 @@
 [2026-08-11 01:18:06] Wrote static pages: privacy, disclaimer, about, contact, dashboard.
 [2026-08-11 01:18:06] Published: posts/hom-lon-byaaj-pr-ttaiks-bct-kaa-triikaa.html  (286 words)  total=901
 [2026-08-11 01:18:06] Sleeping 10 min until next article...
+[2026-08-11 01:28:06] Generating article: SIP क्या है और कैसे शुरू करें
+[2026-08-11 01:35:06] Ollama unexpected error with qwen2.5:7b: timed out
+[2026-08-11 01:42:07] Ollama unexpected error with deepseek-hermes:7b: timed out
+[2026-08-11 01:49:07] Ollama unexpected error with deepseek-r1:7b: timed out
+[2026-08-11 01:53:40]   quality score: 65/100, issues: ['Too short (<300 words)', 'Add more sections (## H2 headings)', 'Add bullet points for readability']
+[2026-08-11 01:53:40] Wrote static pages: privacy, disclaimer, about, contact, dashboard.
+[2026-08-11 01:53:40] Published: posts/sip-kyaa-hai-aur-kaise-shuruu-kre.html  (357 words)  total=902
+[2026-08-11 01:53:40] Sleeping 10 min until next article...
+[2026-08-11 02:03:40] Generating article: बीमा (टर्म + हेल्थ) कैसे चुनें — कंप्लीट गाइड
+[2026-08-11 02:10:40] Ollama unexpected error with qwen2.5:7b: timed out
+[2026-08-11 02:17:41] Ollama unexpected error with deepseek-hermes:7b: timed out
+[2026-08-11 02:24:41] Ollama unexpected error with deepseek-r1:7b: timed out
+[2026-08-11 02:27:34]   quality score: 65/100, issues: ['Too short (<300 words)', 'Add more sections (## H2 headings)', 'Add bullet points for readability']
+[2026-08-11 02:27:34] Wrote static pages: privacy, disclaimer, about, contact, dashboard.
+[2026-08-11 02:27:34] Published: posts/biimaa-ttrm-helth-kaise-cune----kpliitt-gaaidd.html  (321 words)  total=903
+[2026-08-11 02:27:34] Sleeping 10 min until next article...
+[2026-08-11 02:37:34] Generating article: UPI और डिजिटल भुगतान बचत टिप्स
+[2026-08-11 02:44:34] Ollama unexpected error with qwen2.5:7b: timed out
+[2026-08-11 02:51:34] Ollama unexpected error with deepseek-hermes:7b: timed out
+[2026-08-11 02:58:34] Ollama unexpected error with deepseek-r1:7b: timed out
+[2026-08-11 03:01:29]   quality score: 80/100, issues: ['Too short (<300 words)']
+[2026-08-11 03:01:29] Wrote static pages: privacy, disclaimer, about, contact, dashboard.
+[2026-08-11 03:01:29] Published: posts/upi-aur-ddijittl-bhugtaan-bct-ttips.html  (306 words)  total=904
+[2026-08-11 03:01:29] Sleeping 10 min until next article...
+[2026-08-11 03:11:29] Generating article: बेस्ट क्रेडिट कार्ड 2026 भारत में (कैशबैक + रिवार्ड्स)
+[2026-08-11 03:18:29] Ollama unexpected error with qwen2.5:7b: timed out
+[2026-08-11 03:25:29] Ollama unexpected error with deepseek-hermes:7b: timed out
+[2026-08-11 03:32:29] Ollama unexpected error with deepseek-r1:7b: timed out
+[2026-08-11 03:35:22]   quality score: 80/100, issues: ['Too short (<300 words)']
+[2026-08-11 03:35:22] Wrote static pages: privacy, disclaimer, about, contact, dashboard.
+[2026-08-11 03:35:22] Published: posts/bestt-kredditt-kaardd-2026-bhaart-me-kaishbaik-rivaardds.html  (326 words)  total=905
+[2026-08-11 03:35:22] Sleeping 10 min until next article...
+[2026-08-11 03:45:22] Generating article: क्रेडिट स्कोर (CIBIL) सुधारने के 7 तरीके
+[2026-08-11 03:52:22] Ollama unexpected error with qwen2.5:7b: timed out
+[2026-08-11 03:59:22] Ollama unexpected error with deepseek-hermes:7b: timed out
+[2026-08-11 04:06:22] Ollama unexpected error with deepseek-r1:7b: timed out
+[2026-08-11 04:08:09]   quality score: 90/100, issues: ['Could be longer for better depth', 'Add bullet points for readability']
+[2026-08-11 04:08:09] Wrote static pages: privacy, disclaimer, about, contact, dashboard.
+[2026-08-11 04:08:09] Published: posts/kredditt-skor-cibil-sudhaarne-ke-7-triike.html  (354 words)  total=906
+[2026-08-11 04:08:09] Sleeping 10 min until next article...
+[2026-08-11 04:18:09] Generating article: भारत में पैसे बचाने के 10 आसान तरीके
+[2026-08-11 04:25:10] Ollama unexpected error with qwen2.5:7b: timed out
+[2026-08-11 04:32:10] Ollama unexpected error with deepseek-hermes:7b: timed out
+[2026-08-11 04:39:10] Ollama unexpected error with deepseek-r1:7b: timed out
+[2026-08-11 04:41:11]   attempt 1: only 173 words, retrying...
+[2026-08-11 04:48:11] Ollama unexpected error with qwen2.5:7b: timed out
+[2026-08-11 04:55:11] Ollama unexpected error with deepseek-hermes:7b: timed out
+[2026-08-11 05:02:11] Ollama unexpected error with deepseek-r1:7b: timed out
+[2026-08-11 05:05:04]   quality score: 80/100, issues: ['Too short (<300 words)']
+[2026-08-11 05:05:04] Wrote static pages: privacy, disclaimer, about, contact, dashboard.
+[2026-08-11 05:05:04] Published: posts/bhaart-me-paise-bcaane-ke-10-aasaan-triike.html  (294 words)  total=907
+[2026-08-11 05:05:04] Sleeping 10 min until next article...
+[2026-08-11 05:15:04] Generating article: छोटी सैलरी से निवेश कैसे शुरू करें
+[2026-08-11 05:22:04] Ollama unexpected error with qwen2.5:7b: timed out
+[2026-08-11 05:29:05] Ollama unexpected error with deepseek-hermes:7b: timed out
+[2026-08-11 05:36:05] Ollama unexpected error with deepseek-r1:7b: timed out
+[2026-08-11 05:38:56]   quality score: 65/100, issues: ['Too short (<300 words)', 'Add more sections (## H2 headings)', 'Add bullet points for readability']
+[2026-08-11 05:38:56] Wrote static pages: privacy, disclaimer, about, contact, dashboard.
+[2026-08-11 05:38:56] Published: posts/chottii-sailrii-se-nivesh-kaise-shuruu-kre.html  (329 words)  total=908
+[2026-08-11 05:38:56] Sleeping 10 min until next article...
+[2026-08-11 05:48:56] Generating article: क्रेडिट कार्ड कैशबैक ऑफर्स 2026
+[2026-08-11 05:55:56] Ollama unexpected error with qwen2.5:7b: timed out
+[2026-08-11 06:02:56] Ollama unexpected error with deepseek-hermes:7b: timed out
+[2026-08-11 06:09:56] Ollama unexpected error with deepseek-r1:7b: timed out
+[2026-08-11 06:12:35]   attempt 1: only 223 words, retrying...
+[2026-08-11 06:19:35] Ollama unexpected error with qwen2.5:7b: timed out
+[2026-08-11 06:26:35] Ollama unexpected error with deepseek-hermes:7b: timed out
+[2026-08-11 06:33:35] Ollama unexpected error with deepseek-r1:7b: timed out
+[2026-08-11 06:35:55]   quality score: 80/100, issues: ['Too short (<300 words)']
+[2026-08-11 06:35:55] Wrote static pages: privacy, disclaimer, about, contact, dashboard.
+[2026-08-11 06:35:55] Published: posts/kredditt-kaardd-kaishbaik-ophrs-2026.html  (253 words)  total=909
+[2026-08-11 06:35:55] Sleeping 10 min until next article...
+[2026-08-11 06:45:55] Generating article: ऑनलाइन शॉपिंग से पैसे बचाने के ट्रिक्स
+[2026-08-11 06:52:56] Ollama unexpected error with qwen2.5:7b: timed out
+[2026-08-11 06:59:56] Ollama unexpected error with deepseek-hermes:7b: timed out
+[2026-08-11 07:06:56] Ollama unexpected error with deepseek-r1:7b: timed out
+[2026-08-11 07:08:55]   attempt 1: only 178 words, retrying...
+[2026-08-11 07:15:55] Ollama unexpected error with qwen2.5:7b: timed out
+[2026-08-11 07:22:55] Ollama unexpected error with deepseek-hermes:7b: timed out
+[2026-08-11 07:29:55] Ollama unexpected error with deepseek-r1:7b: timed out
+[2026-08-11 07:32:46]   quality score: 80/100, issues: ['Too short (<300 words)']
+[2026-08-11 07:32:46] Wrote static pages: privacy, disclaimer, about, contact, dashboard.
+[2026-08-11 07:32:46] Published: posts/onlaain-shopig-se-paise-bcaane-ke-ttriks.html  (322 words)  total=910
+[2026-08-11 07:32:46] Sleeping 10 min until next article...
+[2026-08-11 07:42:46] Generating article: NPS रिटायरमेंट खाता कैसे खोलें
+[2026-08-11 07:49:47] Ollama unexpected error with qwen2.5:7b: timed out
+[2026-08-11 07:56:47] Ollama unexpected error with deepseek-hermes:7b: timed out
+[2026-08-11 08:03:47] Ollama unexpected error with deepseek-r1:7b: timed out
+[2026-08-11 08:05:29]   quality score: 65/100, issues: ['Too short (<300 words)', 'Add more sections (## H2 headings)', 'Add bullet points for readability']
+[2026-08-11 08:05:29] Wrote static pages: privacy, disclaimer, about, contact, dashboard.
+[2026-08-11 08:05:29] Published: posts/nps-rittaayrmett-khaataa-kaise-khole.html  (313 words)  total=911
+[2026-08-11 08:05:29] Sleeping 10 min until next article...
+[2026-08-11 08:15:29] Generating article: छोटी सैलरी से निवेश कैसे शुरू करें
+[2026-08-11 08:22:30] Ollama unexpected error with qwen2.5:7b: timed out
+[2026-08-11 08:29:30] Ollama unexpected error with deepseek-hermes:7b: timed out
+[2026-08-11 08:36:30] Ollama unexpected error with deepseek-r1:7b: timed out
+[2026-08-11 08:39:22]   quality score: 80/100, issues: ['Too short (<300 words)']
+[2026-08-11 08:39:22] Wrote static pages: privacy, disclaimer, about, contact, dashboard.
+[2026-08-11 08:39:22] Published: posts/chottii-sailrii-se-nivesh-kaise-shuruu-kre.html  (311 words)  total=912
+[2026-08-11 08:39:22] Sleeping 10 min until next article...
+[2026-08-11 08:49:22] Generating article: बैंक FD बनाम डिट पेमेंट्स — रिटर्न कंपेरिजन
+[2026-08-11 08:56:22] Ollama unexpected error with qwen2.5:7b: timed out
+[2026-08-11 09:03:22] Ollama unexpected error with deepseek-hermes:7b: timed out
+[2026-08-11 09:10:22] Ollama unexpected error with deepseek-r1:7b: timed out
+[2026-08-11 09:11:47]   attempt 1: only 100 words, retrying...
+[2026-08-11 09:18:47] Ollama unexpected error with qwen2.5:7b: timed out
+[2026-08-11 09:25:47] Ollama unexpected error with deepseek-hermes:7b: timed out
+[2026-08-11 09:32:47] Ollama unexpected error with deepseek-r1:7b: timed out
+[2026-08-11 09:35:38]   quality score: 65/100, issues: ['Too short (<300 words)', 'Add more sections (## H2 headings)', 'Add bullet points for readability']
+[2026-08-11 09:35:39] Wrote static pages: privacy, disclaimer, about, contact, dashboard.
+[2026-08-11 09:35:39] Published: posts/baik-fd-bnaam-dditt-pemetts----rittrn-kperijn.html  (343 words)  total=913
+[2026-08-11 09:35:39] Sleeping 10 min until next article...
+[2026-08-11 09:45:39] Generating article: इमरजेंसी फंड कैसे बनाएं
+[2026-08-11 09:52:39] Ollama unexpected error with qwen2.5:7b: timed out
+[2026-08-11 09:59:39] Ollama unexpected error with deepseek-hermes:7b: timed out
+[2026-08-11 10:06:39] Ollama unexpected error with deepseek-r1:7b: timed out
+[2026-08-11 10:09:28]   quality score: 80/100, issues: ['Too short (<300 words)']
+[2026-08-11 10:09:28] Wrote static pages: privacy, disclaimer, about, contact, dashboard.
+[2026-08-11 10:09:28] Published: posts/imrjesii-phdd-kaise-bnaae.html  (300 words)  total=914
+[2026-08-11 10:09:28] Sleeping 10 min until next article...
+[2026-08-11 10:19:28] Generating article: क्रेडिट कार्ड कैशबैक ऑफर्स 2026
+[2026-08-11 10:26:28] Ollama unexpected error with qwen2.5:7b: timed out
+[2026-08-11 10:33:28] Ollama unexpected error with deepseek-hermes:7b: timed out
+[2026-08-11 10:40:28] Ollama unexpected error with deepseek-r1:7b: timed out
+[2026-08-11 10:43:18]   quality score: 75/100, issues: ['Too short (<300 words)', 'Add bullet points for readability']
+[2026-08-11 10:43:18] Wrote static pages: privacy, disclaimer, about, contact, dashboard.
+[2026-08-11 10:43:19] Published: posts/kredditt-kaardd-kaishbaik-ophrs-2026.html  (326 words)  total=915
+[2026-08-11 10:43:19] Sleeping 10 min until next article...
+[2026-08-11 10:53:19] Generating article: भारत में पैसे बचाने के 10 आसान तरीके
+[2026-08-11 11:00:19] Ollama unexpected error with qwen2.5:7b: timed out
+[2026-08-11 11:07:19] Ollama unexpected error with deepseek-hermes:7b: timed out
+[2026-08-11 11:14:19] Ollama unexpected error with deepseek-r1:7b: timed out
+[2026-08-11 11:17:12]   quality score: 80/100, issues: ['Too short (<300 words)']
+[2026-08-11 11:17:12] Wrote static pages: privacy, disclaimer, about, contact, dashboard.
+[2026-08-11 11:17:12] Published: posts/bhaart-me-paise-bcaane-ke-10-aasaan-triike.html  (298 words)  total=916
+[2026-08-11 11:17:12] Sleeping 10 min until next article...
+[2026-08-11 11:27:12] Generating article: बेस्ट मोबाइल ऐप्स पैसे बचाने के लिए
+[2026-08-11 11:34:12] Ollama unexpected error with qwen2.5:7b: timed out
+[2026-08-11 11:41:12] Ollama unexpected error with deepseek-hermes:7b: timed out
+[2026-08-11 11:48:13] Ollama unexpected error with deepseek-r1:7b: timed out
+[2026-08-11 11:51:04]   quality score: 75/100, issues: ['Too short (<300 words)', 'Add bullet points for readability']
+[2026-08-11 11:51:04] Wrote static pages: privacy, disclaimer, about, contact, dashboard.
+[2026-08-11 11:51:04] Published: posts/bestt-mobaail-aips-paise-bcaane-ke-lie.html  (331 words)  total=917
+[2026-08-11 11:51:04] Sleeping 10 min until next article...
+[2026-08-11 12:01:04] Generating article: ऑनलाइन शॉपिंग से पैसे बचाने के ट्रिक्स
+[2026-08-11 12:08:04] Ollama unexpected error with qwen2.5:7b: timed out
+[2026-08-11 12:15:05] Ollama unexpected error with deepseek-hermes:7b: timed out
+[2026-08-11 12:22:05] Ollama unexpected error with deepseek-r1:7b: timed out
+[2026-08-11 12:24:18]   attempt 1: only 222 words, retrying...
+[2026-08-11 12:31:18] Ollama unexpected error with qwen2.5:7b: timed out
+[2026-08-11 12:38:18] Ollama unexpected error with deepseek-hermes:7b: timed out
+[2026-08-11 12:45:19] Ollama unexpected error with deepseek-r1:7b: timed out
+[2026-08-11 12:48:10]   quality score: 65/100, issues: ['Too short (<300 words)', 'Add more sections (## H2 headings)', 'Add bullet points for readability']
+[2026-08-11 12:48:10] Wrote static pages: privacy, disclaimer, about, contact, dashboard.
+[2026-08-11 12:48:10] Published: posts/onlaain-shopig-se-paise-bcaane-ke-ttriks.html  (335 words)  total=918
+[2026-08-11 12:48:10] Sleeping 10 min until next article...
+[2026-08-11 12:58:10] Generating article: फ्रीलांसिंग से पैसे कमाने के तरीके
+[2026-08-11 13:05:10] Ollama unexpected error with qwen2.5:7b: timed out
+[2026-08-11 13:12:10] Ollama unexpected error with deepseek-hermes:7b: timed out
+[2026-08-11 13:19:10] Ollama unexpected error with deepseek-r1:7b: timed out
+[2026-08-11 13:21:09]   attempt 1: only 191 words, retrying...
+[2026-08-11 13:28:09] Ollama unexpected error with qwen2.5:7b: timed out
+[2026-08-11 13:35:09] Ollama unexpected error with deepseek-hermes:7b: timed out
+[2026-08-11 13:42:09] Ollama unexpected error with deepseek-r1:7b: timed out
+[2026-08-11 13:45:00]   quality score: 75/100, issues: ['Too short (<300 words)', 'Add bullet points for readability']
+[2026-08-11 13:45:00] Wrote static pages: privacy, disclaimer, about, contact, dashboard.
+[2026-08-11 13:45:00] Published: posts/phriilaasig-se-paise-kmaane-ke-triike.html  (330 words)  total=919
+[2026-08-11 13:45:00] Sleeping 10 min until next article...
+[2026-08-11 13:55:00] Generating article: पैसive इनकम बनाने की गाइड
+[2026-08-11 14:02:00] Ollama unexpected error with qwen2.5:7b: timed out
+[2026-08-11 14:09:00] Ollama unexpected error with deepseek-hermes:7b: timed out
+[2026-08-11 14:16:01] Ollama unexpected error with deepseek-r1:7b: timed out
+[2026-08-11 14:18:52]   quality score: 65/100, issues: ['Too short (<300 words)', 'Add more sections (## H2 headings)', 'Add bullet points for readability']
+[2026-08-11 14:18:52] Wrote static pages: privacy, disclaimer, about, contact, dashboard.
+[2026-08-11 14:18:52] Published: posts/paisive-inkm-bnaane-kii-gaaidd.html  (319 words)  total=920
+[2026-08-11 14:18:52] Sleeping 10 min until next article...
+[2026-08-11 14:28:52] Generating article: ELSS टैक्स सेविंग फंड्स टॉप 5
+[2026-08-11 14:35:52] Ollama unexpected error with qwen2.5:7b: timed out
+[2026-08-11 14:42:52] Ollama unexpected error with deepseek-hermes:7b: timed out
+[2026-08-11 14:49:52] Ollama unexpected error with deepseek-r1:7b: timed out
+[2026-08-11 14:51:50]   quality score: 90/100, issues: ['Could be longer for better depth', 'Add bullet points for readability']
+[2026-08-11 14:51:50] Wrote static pages: privacy, disclaimer, about, contact, dashboard.
+[2026-08-11 14:51:50] Published: posts/elss-ttaiks-sevig-phdds-ttop-5.html  (391 words)  total=921
+[2026-08-11 14:51:50] Sleeping 10 min until next article...
+[2026-08-11 15:01:50] Generating article: बेस्ट डिस्काउंट ब्रोकर कौन सा — ज़ीरोधा vs अपस्टॉक्स
+[2026-08-11 15:08:50] Ollama unexpected error with qwen2.5:7b: timed out
+[2026-08-11 15:15:50] Ollama unexpected error with deepseek-hermes:7b: timed out
+[2026-08-11 15:22:51] Ollama unexpected error with deepseek-r1:7b: timed out
+[2026-08-11 15:25:43]   quality score: 75/100, issues: ['Too short (<300 words)', 'Add bullet points for readability']
+[2026-08-11 15:25:43] Wrote static pages: privacy, disclaimer, about, contact, dashboard.
+[2026-08-11 15:25:43] Published: posts/bestt-ddiskaautt-brokr-kaun-saa----jiirodhaa-vs-apsttoks.html  (319 words)  total=922
+[2026-08-11 15:25:43] Sleeping 10 min until next article...
+[2026-08-11 15:35:43] Generating article: टैक्स बचाने के लिए 80C निवेश
+[2026-08-11 15:42:43] Ollama unexpected error with qwen2.5:7b: timed out
+[2026-08-11 15:49:43] Ollama unexpected error with deepseek-hermes:7b: timed out
+[2026-08-11 15:56:44] Ollama unexpected error with deepseek-r1:7b: timed out
+[2026-08-11 15:59:19]   quality score: 80/100, issues: ['Too short (<300 words)']
+[2026-08-11 15:59:20] Wrote static pages: privacy, disclaimer, about, contact, dashboard.
+[2026-08-11 15:59:20] Published: posts/ttaiks-bcaane-ke-lie-80c-nivesh.html  (280 words)  total=923
+[2026-08-11 15:59:20] Sleeping 10 min until next article...
+[2026-08-11 16:09:20] Generating article: क्रिप्टो में निवेश शुरू करने की सावधानियां
+[2026-08-11 16:16:20] Ollama unexpected error with qwen2.5:7b: timed out
+[2026-08-11 16:23:20] Ollama unexpected error with deepseek-hermes:7b: timed out
+[2026-08-11 16:30:20] Ollama unexpected error with deepseek-r1:7b: timed out
+[2026-08-11 16:33:11]   quality score: 80/100, issues: ['Too short (<300 words)']
+[2026-08-11 16:33:11] Wrote static pages: privacy, disclaimer, about, contact, dashboard.
+[2026-08-11 16:33:11] Published: posts/kriptto-me-nivesh-shuruu-krne-kii-saavdhaaniyaa.html  (325 words)  total=924
+[2026-08-11 16:33:11] Sleeping 10 min until next article...
+[2026-08-11 16:43:11] Generating article: स्टॉक मार्केट शुरुआत कैसे करें
+[2026-08-11 16:50:12] Ollama unexpected error with qwen2.5:7b: timed out
+[2026-08-11 16:57:12] Ollama unexpected error with deepseek-hermes:7b: timed out
+[2026-08-11 17:04:12] Ollama unexpected error with deepseek-r1:7b: timed out
+[2026-08-11 17:07:02]   quality score: 65/100, issues: ['Too short (<300 words)', 'Add more sections (## H2 headings)', 'Add bullet points for readability']
+[2026-08-11 17:07:02] Wrote static pages: privacy, disclaimer, about, contact, dashboard.
+[2026-08-11 17:07:02] Published: posts/sttok-maarkett-shuruaat-kaise-kre.html  (324 words)  total=925
+[2026-08-11 17:07:02] Sleeping 10 min until next article...
+[2026-08-11 17:17:02] Generating article: छोटे बिजनेस के लिए GST रजिस्ट्रेशन गाइड
+[2026-08-11 17:24:02] Ollama unexpected error with qwen2.5:7b: timed out
+[2026-08-11 17:31:02] Ollama unexpected error with deepseek-hermes:7b: timed out
+[2026-08-11 17:38:02] Ollama unexpected error with deepseek-r1:7b: timed out
+[2026-08-11 17:40:53]   quality score: 80/100, issues: ['Too short (<300 words)']
+[2026-08-11 17:40:53] Wrote static pages: privacy, disclaimer, about, contact, dashboard.
+[2026-08-11 17:40:53] Published: posts/chotte-bijnes-ke-lie-gst-rjisttreshn-gaaidd.html  (330 words)  total=926
+[2026-08-11 17:40:53] Sleeping 10 min until next article...
+[2026-08-11 17:50:53] Generating article: ऑनलाइन शॉपिंग से पैसे बचाने के ट्रिक्स
+[2026-08-11 17:57:53] Ollama unexpected error with qwen2.5:7b: timed out
+[2026-08-11 18:04:53] Ollama unexpected error with deepseek-hermes:7b: timed out
+[2026-08-11 18:11:54] Ollama unexpected error with deepseek-r1:7b: timed out
+[2026-08-11 18:13:10]   attempt 1: only 80 words, retrying...
+[2026-08-11 18:16:29] Money-Maker Engine started (loop mode).
+[2026-08-11 18:16:29] Tracker server running at http://0.0.0.0:8800
+[2026-08-11 18:16:29] Generating article: रियल एस्टेट vs म्यूचुअल फंड — कहां निवेश करें
+[2026-08-11 18:23:29] Ollama unexpected error with qwen2.5:7b: timed out
+[2026-08-11 18:30:29] Ollama unexpected error with deepseek-hermes:7b: timed out
+[2026-08-11 18:37:29] Ollama unexpected error with deepseek-r1:7b: timed out
+[2026-08-11 18:40:20]   quality score: 80/100, issues: ['Too short (<300 words)']
+[2026-08-11 18:40:20] Wrote static pages: privacy, disclaimer, about, contact, dashboard.
+[2026-08-11 18:40:20] Published: posts/riyl-esttett-vs-myuucual-phdd----khaa-nivesh-kre.html  (298 words)  total=927
+[2026-08-11 18:40:20] Sleeping 10 min until next article...
+[2026-08-11 18:50:20] Generating article: छोटे बिजनेस के लिए GST रजिस्ट्रेशन गाइड
+[2026-08-11 18:57:20] Ollama unexpected error with qwen2.5:7b: timed out
+[2026-08-11 19:04:20] Ollama unexpected error with deepseek-hermes:7b: timed out
+[2026-08-11 19:11:20] Ollama unexpected error with deepseek-r1:7b: timed out
+[2026-08-11 19:14:13]   quality score: 65/100, issues: ['Too short (<300 words)', 'Add more sections (## H2 headings)', 'Add bullet points for readability']
+[2026-08-11 19:14:13] Wrote static pages: privacy, disclaimer, about, contact, dashboard.
+[2026-08-11 19:14:13] Published: posts/chotte-bijnes-ke-lie-gst-rjisttreshn-gaaidd.html  (363 words)  total=928
+[2026-08-11 19:14:13] Sleeping 10 min until next article...
+[2026-08-11 19:24:13] Generating article: क्रेडिट कार्ड कैशबैक ऑफर्स 2026
+[2026-08-11 19:31:13] Ollama unexpected error with qwen2.5:7b: timed out
+[2026-08-11 19:38:13] Ollama unexpected error with deepseek-hermes:7b: timed out
+[2026-08-11 19:45:13] Ollama unexpected error with deepseek-r1:7b: timed out
+[2026-08-11 19:48:04]   quality score: 80/100, issues: ['Too short (<300 words)']
+[2026-08-11 19:48:04] Wrote static pages: privacy, disclaimer, about, contact, dashboard.
+[2026-08-11 19:48:04] Published: posts/kredditt-kaardd-kaishbaik-ophrs-2026.html  (337 words)  total=929
+[2026-08-11 19:48:04] Sleeping 10 min until next article...
+[2026-08-11 19:58:04] Generating article: बैंक FD बनाम डिट पेमेंट्स — रिटर्न कंपेरिजन
+[2026-08-11 20:05:05] Ollama unexpected error with qwen2.5:7b: timed out
+[2026-08-11 20:12:05] Ollama unexpected error with deepseek-hermes:7b: timed out
+[2026-08-11 20:19:05] Ollama unexpected error with deepseek-r1:7b: timed out
+[2026-08-11 20:21:57]   quality score: 80/100, issues: ['Too short (<300 words)']
+[2026-08-11 20:21:57] Wrote static pages: privacy, disclaimer, about, contact, dashboard.
+[2026-08-11 20:21:57] Published: posts/baik-fd-bnaam-dditt-pemetts----rittrn-kperijn.html  (307 words)  total=930
+[2026-08-11 20:21:57] Sleeping 10 min until next article...
+[2026-08-11 20:31:57] Generating article: गोल्ड में निवेश करने के तरीके
+[2026-08-11 20:38:58] Ollama unexpected error with qwen2.5:7b: timed out
+[2026-08-11 20:45:58] Ollama unexpected error with deepseek-hermes:7b: timed out
+[2026-08-11 20:52:58] Ollama unexpected error with deepseek-r1:7b: timed out
+[2026-08-11 20:55:49]   quality score: 70/100, issues: ['Too short (<300 words)', 'Add more sections (## H2 headings)']
+[2026-08-11 20:55:49] Wrote static pages: privacy, disclaimer, about, contact, dashboard.
+[2026-08-11 20:55:49] Published: posts/goldd-me-nivesh-krne-ke-triike.html  (322 words)  total=931
+[2026-08-11 20:55:49] Sleeping 10 min until next article...
+[2026-08-11 21:05:49] Generating article: क्रिप्टो में निवेश शुरू करने की सावधानियां
+[2026-08-11 21:12:49] Ollama unexpected error with qwen2.5:7b: timed out
+[2026-08-11 21:19:50] Ollama unexpected error with deepseek-hermes:7b: timed out
+[2026-08-11 21:26:50] Ollama unexpected error with deepseek-r1:7b: timed out
+[2026-08-11 21:29:39]   quality score: 75/100, issues: ['Too short (<300 words)', 'Add bullet points for readability']
+[2026-08-11 21:29:39] Wrote static pages: privacy, disclaimer, about, contact, dashboard.
+[2026-08-11 21:29:39] Published: posts/kriptto-me-nivesh-shuruu-krne-kii-saavdhaaniyaa.html  (308 words)  total=932
+[2026-08-11 21:29:39] Sleeping 10 min until next article...
+[2026-08-11 21:39:39] Generating article: ELSS टैक्स सेविंग फंड्स टॉप 5
+[2026-08-11 21:46:39] Ollama unexpected error with qwen2.5:7b: timed out
+[2026-08-11 21:53:39] Ollama unexpected error with deepseek-hermes:7b: timed out
+[2026-08-11 22:00:39] Ollama unexpected error with deepseek-r1:7b: timed out
+[2026-08-11 22:04:29]   quality score: 75/100, issues: ['Too short (<300 words)', 'Add bullet points for readability']
+[2026-08-11 22:04:29] Wrote static pages: privacy, disclaimer, about, contact, dashboard.
+[2026-08-11 22:04:29] Published: posts/elss-ttaiks-sevig-phdds-ttop-5.html  (305 words)  total=933
+[2026-08-11 22:04:29] Sleeping 10 min until next article...
+[2026-08-11 22:14:29] Generating article: स्टॉक मार्केट शुरुआत कैसे करें
+[2026-08-11 22:21:29] Ollama unexpected error with qwen2.5:7b: timed out
+[2026-08-11 22:28:29] Ollama unexpected error with deepseek-hermes:7b: timed out
+[2026-08-11 22:35:29] Ollama unexpected error with deepseek-r1:7b: timed out
+[2026-08-11 22:39:12]   quality score: 80/100, issues: ['Too short (<300 words)']
+[2026-08-11 22:39:12] Wrote static pages: privacy, disclaimer, about, contact, dashboard.
+[2026-08-11 22:39:12] Published: posts/sttok-maarkett-shuruaat-kaise-kre.html  (321 words)  total=934
+[2026-08-11 22:39:12] Sleeping 10 min until next article...
+[2026-08-11 22:49:12] Generating article: ELSS टैक्स सेविंग फंड्स टॉप 5
+[2026-08-11 22:56:12] Ollama unexpected error with qwen2.5:7b: timed out
+[2026-08-11 23:03:12] Ollama unexpected error with deepseek-hermes:7b: timed out
+[2026-08-11 23:10:13] Ollama unexpected error with deepseek-r1:7b: timed out
+[2026-08-11 23:14:46]   quality score: 75/100, issues: ['Too short (<300 words)', 'Add bullet points for readability']
+[2026-08-11 23:14:46] Wrote static pages: privacy, disclaimer, about, contact, dashboard.
+[2026-08-11 23:14:46] Published: posts/elss-ttaiks-sevig-phdds-ttop-5.html  (337 words)  total=935
+[2026-08-11 23:14:46] Sleeping 10 min until next article...
+[2026-08-11 23:24:46] Generating article: रिटायरमेंट प्लानिंग शुरुआती गाइड
+[2026-08-11 23:31:46] Ollama unexpected error with qwen2.5:7b: timed out

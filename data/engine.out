@@ -1,124 +1,77 @@
-  File "/home/junglee01/money-maker/engine.py", line 711
-    const b=document.getElementById("chat-box");
-    ^^^^^^^
-SyntaxError: invalid syntax. Perhaps you forgot a comma?
-  File "/home/junglee01/money-maker/engine.py", line 711
-    const b=document.getElementById("chat-box");
-    ^^^^^^^
-SyntaxError: invalid syntax. Perhaps you forgot a comma?
-  File "/home/junglee01/money-maker/engine.py", line 711
-    const b=document.getElementById("chat-box");
-    ^^^^^^^
-SyntaxError: invalid syntax. Perhaps you forgot a comma?
-  File "/home/junglee01/money-maker/engine.py", line 711
-    const b=document.getElementById("chat-box");
-    ^^^^^^^
-SyntaxError: invalid syntax. Perhaps you forgot a comma?
-  File "/home/junglee01/money-maker/engine.py", line 711
-    const b=document.getElementById("chat-box");
-    ^^^^^^^
-SyntaxError: invalid syntax. Perhaps you forgot a comma?
-  File "/home/junglee01/money-maker/engine.py", line 711
-    const b=document.getElementById("chat-box");
-    ^^^^^^^
-SyntaxError: invalid syntax. Perhaps you forgot a comma?
-  File "/home/junglee01/money-maker/engine.py", line 711
-    const b=document.getElementById("chat-box");
-    ^^^^^^^
-SyntaxError: invalid syntax. Perhaps you forgot a comma?
-  File "/home/junglee01/money-maker/engine.py", line 711
-    const b=document.getElementById("chat-box");
-    ^^^^^^^
-SyntaxError: invalid syntax. Perhaps you forgot a comma?
-  File "/home/junglee01/money-maker/engine.py", line 711
-    const b=document.getElementById("chat-box");
-    ^^^^^^^
-SyntaxError: invalid syntax. Perhaps you forgot a comma?
-  File "/home/junglee01/money-maker/engine.py", line 711
-    const b=document.getElementById("chat-box");
-    ^^^^^^^
-SyntaxError: invalid syntax. Perhaps you forgot a comma?
-  File "/home/junglee01/money-maker/engine.py", line 711
-    const b=document.getElementById("chat-box");
-    ^^^^^^^
-SyntaxError: invalid syntax. Perhaps you forgot a comma?
-  File "/home/junglee01/money-maker/engine.py", line 711
-    const b=document.getElementById("chat-box");
-    ^^^^^^^
-SyntaxError: invalid syntax. Perhaps you forgot a comma?
-  File "/home/junglee01/money-maker/engine.py", line 711
-    const b=document.getElementById("chat-box");
-    ^^^^^^^
-SyntaxError: invalid syntax. Perhaps you forgot a comma?
-  File "/home/junglee01/money-maker/engine.py", line 711
-    const b=document.getElementById("chat-box");
-    ^^^^^^^
-SyntaxError: invalid syntax. Perhaps you forgot a comma?
-  File "/home/junglee01/money-maker/engine.py", line 711
-    const b=document.getElementById("chat-box");
-    ^^^^^^^
-SyntaxError: invalid syntax. Perhaps you forgot a comma?
-  File "/home/junglee01/money-maker/engine.py", line 711
-    const b=document.getElementById("chat-box");
-    ^^^^^^^
-SyntaxError: invalid syntax. Perhaps you forgot a comma?
-  File "/home/junglee01/money-maker/engine.py", line 722
-    const b=document.getElementById("chat-box");
-    ^^^^^^^
-SyntaxError: invalid syntax. Perhaps you forgot a comma?
-  File "/home/junglee01/money-maker/engine.py", line 722
-    var b=document.getElementById("chat-box");
-    ^^^^^
-SyntaxError: invalid syntax. Perhaps you forgot a comma?
-  File "/home/junglee01/money-maker/engine.py", line 722
-    var b=document.getElementById("chat-box");
-    ^^^^^
-SyntaxError: invalid syntax. Perhaps you forgot a comma?
-  File "/home/junglee01/money-maker/engine.py", line 722
-    var b=document.getElementById("chat-box");
-    ^^^^^
-SyntaxError: invalid syntax. Perhaps you forgot a comma?
-  File "/home/junglee01/money-maker/engine.py", line 722
-    var b=document.getElementById("chat-box");
-    ^^^^^
-SyntaxError: invalid syntax. Perhaps you forgot a comma?
-  File "/home/junglee01/money-maker/engine.py", line 722
-    var b=document.getElementById("chat-box");
-    ^^^^^
-SyntaxError: invalid syntax. Perhaps you forgot a comma?
-  File "/home/junglee01/money-maker/engine.py", line 722
-    var b=document.getElementById("chat-box");
-    ^^^^^
-SyntaxError: invalid syntax. Perhaps you forgot a comma?
-  File "/home/junglee01/money-maker/engine.py", line 722
-    var b=document.getElementById("chat-box");
-    ^^^^^
-SyntaxError: invalid syntax. Perhaps you forgot a comma?
-  File "/home/junglee01/money-maker/engine.py", line 722
-    var b=document.getElementById("chat-box");
-    ^^^^^
-SyntaxError: invalid syntax. Perhaps you forgot a comma?
-  File "/home/junglee01/money-maker/engine.py", line 709
-    _html = (
-            ^
-SyntaxError: '(' was never closed
-  File "/home/junglee01/money-maker/engine.py", line 722
-    parts.append('      <input id="chat-input" type="text" placeholder="' + placeholder + '" onkeydown="if(event.key==='Enter')sendChat()">')
-                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-SyntaxError: invalid syntax. Perhaps you forgot a comma?
-  File "/home/junglee01/money-maker/engine.py", line 722
-    parts.append('      <input id="chat-input" type="text" placeholder="' + placeholder + '" onkeydown="if(event.key==='Enter')sendChat()">')
-                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-SyntaxError: invalid syntax. Perhaps you forgot a comma?
-  File "/home/junglee01/money-maker/engine.py", line 711
-    '<div id="ai-chat" class="chat-widget">' + chr(10) +
-    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-SyntaxError: invalid syntax. Perhaps you forgot a comma?
-  File "/home/junglee01/money-maker/engine.py", line 240
-    continue  # try next model in chain
-    ^^^^^^^^
-SyntaxError: 'continue' not properly in loop
-[2026-07-30 23:55:01] Money-Maker Engine started (loop mode).
-[2026-07-30 23:55:01] Generating article: रिटायरमेंट प्लानिंग शुरुआती गाइड
-[2026-07-31 00:02:01] Ollama unexpected error with qwen2.5:7b: timed out
-[2026-07-31 00:09:01] Ollama unexpected error with deepseek-hermes:7b: timed out
+[2026-08-11 18:16:29] Money-Maker Engine started (loop mode).
+[2026-08-11 18:16:29] Generating article: रियल एस्टेट vs म्यूचुअल फंड — कहां निवेश करें
+[2026-08-11 18:23:29] Ollama unexpected error with qwen2.5:7b: timed out
+[2026-08-11 18:30:29] Ollama unexpected error with deepseek-hermes:7b: timed out
+[2026-08-11 18:37:29] Ollama unexpected error with deepseek-r1:7b: timed out
+[2026-08-11 18:40:20]   quality score: 80/100, issues: ['Too short (<300 words)']
+/home/junglee01/money-maker/engine.py:945: DeprecationWarning: datetime.datetime.utcfromtimestamp() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.fromtimestamp(timestamp, datetime.UTC).
+  f"<pubDate>{datetime.datetime.utcfromtimestamp(p['ts']).strftime('%a, %d %b %Y %H:%M:%S GMT')}</pubDate>"
+[2026-08-11 18:40:20] Wrote static pages: privacy, disclaimer, about, contact, dashboard.
+[2026-08-11 18:40:20] Published: posts/riyl-esttett-vs-myuucual-phdd----khaa-nivesh-kre.html  (298 words)  total=927
+[2026-08-11 18:40:20] Sleeping 10 min until next article...
+[2026-08-11 18:50:20] Generating article: छोटे बिजनेस के लिए GST रजिस्ट्रेशन गाइड
+[2026-08-11 18:57:20] Ollama unexpected error with qwen2.5:7b: timed out
+[2026-08-11 19:04:20] Ollama unexpected error with deepseek-hermes:7b: timed out
+[2026-08-11 19:11:20] Ollama unexpected error with deepseek-r1:7b: timed out
+[2026-08-11 19:14:13]   quality score: 65/100, issues: ['Too short (<300 words)', 'Add more sections (## H2 headings)', 'Add bullet points for readability']
+[2026-08-11 19:14:13] Wrote static pages: privacy, disclaimer, about, contact, dashboard.
+[2026-08-11 19:14:13] Published: posts/chotte-bijnes-ke-lie-gst-rjisttreshn-gaaidd.html  (363 words)  total=928
+[2026-08-11 19:14:13] Sleeping 10 min until next article...
+[2026-08-11 19:24:13] Generating article: क्रेडिट कार्ड कैशबैक ऑफर्स 2026
+[2026-08-11 19:31:13] Ollama unexpected error with qwen2.5:7b: timed out
+[2026-08-11 19:38:13] Ollama unexpected error with deepseek-hermes:7b: timed out
+[2026-08-11 19:45:13] Ollama unexpected error with deepseek-r1:7b: timed out
+[2026-08-11 19:48:04]   quality score: 80/100, issues: ['Too short (<300 words)']
+[2026-08-11 19:48:04] Wrote static pages: privacy, disclaimer, about, contact, dashboard.
+[2026-08-11 19:48:04] Published: posts/kredditt-kaardd-kaishbaik-ophrs-2026.html  (337 words)  total=929
+[2026-08-11 19:48:04] Sleeping 10 min until next article...
+[2026-08-11 19:58:04] Generating article: बैंक FD बनाम डिट पेमेंट्स — रिटर्न कंपेरिजन
+[2026-08-11 20:05:05] Ollama unexpected error with qwen2.5:7b: timed out
+[2026-08-11 20:12:05] Ollama unexpected error with deepseek-hermes:7b: timed out
+[2026-08-11 20:19:05] Ollama unexpected error with deepseek-r1:7b: timed out
+[2026-08-11 20:21:57]   quality score: 80/100, issues: ['Too short (<300 words)']
+[2026-08-11 20:21:57] Wrote static pages: privacy, disclaimer, about, contact, dashboard.
+[2026-08-11 20:21:57] Published: posts/baik-fd-bnaam-dditt-pemetts----rittrn-kperijn.html  (307 words)  total=930
+[2026-08-11 20:21:57] Sleeping 10 min until next article...
+[2026-08-11 20:31:57] Generating article: गोल्ड में निवेश करने के तरीके
+[2026-08-11 20:38:58] Ollama unexpected error with qwen2.5:7b: timed out
+[2026-08-11 20:45:58] Ollama unexpected error with deepseek-hermes:7b: timed out
+[2026-08-11 20:52:58] Ollama unexpected error with deepseek-r1:7b: timed out
+[2026-08-11 20:55:49]   quality score: 70/100, issues: ['Too short (<300 words)', 'Add more sections (## H2 headings)']
+[2026-08-11 20:55:49] Wrote static pages: privacy, disclaimer, about, contact, dashboard.
+[2026-08-11 20:55:49] Published: posts/goldd-me-nivesh-krne-ke-triike.html  (322 words)  total=931
+[2026-08-11 20:55:49] Sleeping 10 min until next article...
+[2026-08-11 21:05:49] Generating article: क्रिप्टो में निवेश शुरू करने की सावधानियां
+[2026-08-11 21:12:49] Ollama unexpected error with qwen2.5:7b: timed out
+[2026-08-11 21:19:50] Ollama unexpected error with deepseek-hermes:7b: timed out
+[2026-08-11 21:26:50] Ollama unexpected error with deepseek-r1:7b: timed out
+[2026-08-11 21:29:39]   quality score: 75/100, issues: ['Too short (<300 words)', 'Add bullet points for readability']
+[2026-08-11 21:29:39] Wrote static pages: privacy, disclaimer, about, contact, dashboard.
+[2026-08-11 21:29:39] Published: posts/kriptto-me-nivesh-shuruu-krne-kii-saavdhaaniyaa.html  (308 words)  total=932
+[2026-08-11 21:29:39] Sleeping 10 min until next article...
+[2026-08-11 21:39:39] Generating article: ELSS टैक्स सेविंग फंड्स टॉप 5
+[2026-08-11 21:46:39] Ollama unexpected error with qwen2.5:7b: timed out
+[2026-08-11 21:53:39] Ollama unexpected error with deepseek-hermes:7b: timed out
+[2026-08-11 22:00:39] Ollama unexpected error with deepseek-r1:7b: timed out
+[2026-08-11 22:04:29]   quality score: 75/100, issues: ['Too short (<300 words)', 'Add bullet points for readability']
+[2026-08-11 22:04:29] Wrote static pages: privacy, disclaimer, about, contact, dashboard.
+[2026-08-11 22:04:29] Published: posts/elss-ttaiks-sevig-phdds-ttop-5.html  (305 words)  total=933
+[2026-08-11 22:04:29] Sleeping 10 min until next article...
+[2026-08-11 22:14:29] Generating article: स्टॉक मार्केट शुरुआत कैसे करें
+[2026-08-11 22:21:29] Ollama unexpected error with qwen2.5:7b: timed out
+[2026-08-11 22:28:29] Ollama unexpected error with deepseek-hermes:7b: timed out
+[2026-08-11 22:35:29] Ollama unexpected error with deepseek-r1:7b: timed out
+[2026-08-11 22:39:12]   quality score: 80/100, issues: ['Too short (<300 words)']
+[2026-08-11 22:39:12] Wrote static pages: privacy, disclaimer, about, contact, dashboard.
+[2026-08-11 22:39:12] Published: posts/sttok-maarkett-shuruaat-kaise-kre.html  (321 words)  total=934
+[2026-08-11 22:39:12] Sleeping 10 min until next article...
+[2026-08-11 22:49:12] Generating article: ELSS टैक्स सेविंग फंड्स टॉप 5
+[2026-08-11 22:56:12] Ollama unexpected error with qwen2.5:7b: timed out
+[2026-08-11 23:03:12] Ollama unexpected error with deepseek-hermes:7b: timed out
+[2026-08-11 23:10:13] Ollama unexpected error with deepseek-r1:7b: timed out
+[2026-08-11 23:14:46]   quality score: 75/100, issues: ['Too short (<300 words)', 'Add bullet points for readability']
+[2026-08-11 23:14:46] Wrote static pages: privacy, disclaimer, about, contact, dashboard.
+[2026-08-11 23:14:46] Published: posts/elss-ttaiks-sevig-phdds-ttop-5.html  (337 words)  total=935
+[2026-08-11 23:14:46] Sleeping 10 min until next article...
+[2026-08-11 23:24:46] Generating article: रिटायरमेंट प्लानिंग शुरुआती गाइड
+[2026-08-11 23:31:46] Ollama unexpected error with qwen2.5:7b: timed out

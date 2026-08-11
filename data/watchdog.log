@@ -935,3 +935,367 @@
 [watchdog Tue Aug 11 01:15:01 AM IST 2026] ok
 2026-08-11 01:15:23 money-maker=OK(200) ollama=OK
 [watchdog Tue Aug 11 01:20:01 AM IST 2026] ok
+[watchdog Tue Aug 11 01:25:01 AM IST 2026] ok
+[watchdog Tue Aug 11 01:30:02 AM IST 2026] ok
+[2026-08-11 01:30:38 IST] money-maker: RUNNING (HTTP 200 on 8800), ollama: RUNNING
+[watchdog Tue Aug 11 01:35:02 AM IST 2026] ok
+[watchdog Tue Aug 11 01:40:03 AM IST 2026] ok
+[watchdog Tue Aug 11 01:45:01 AM IST 2026] ok
+2026-08-11 01:45:40 | money-maker=OK(port8800) | ollama=OK(pid922)
+[watchdog Tue Aug 11 01:50:02 AM IST 2026] ok
+[watchdog Tue Aug 11 01:55:01 AM IST 2026] ok
+[watchdog Tue Aug 11 02:00:01 AM IST 2026] ok
+2026-08-11 02:00:32 money-maker=OK(port8800 pid=621) ollama=OK
+[watchdog Tue Aug 11 02:05:01 AM IST 2026] ok
+[watchdog Tue Aug 11 02:10:01 AM IST 2026] ok
+[watchdog Tue Aug 11 02:15:02 AM IST 2026] ok
+[2026-08-11 02:16:09] Watchdog: money-engine OK on 8800, ollama OK
+[watchdog Tue Aug 11 02:20:01 AM IST 2026] ok
+[watchdog Tue Aug 11 02:25:01 AM IST 2026] ok
+[watchdog Tue Aug 11 02:30:01 AM IST 2026] ok
+2026-08-11 02:30:36 | money-maker: OK | ollama: OK
+[watchdog Tue Aug 11 02:35:01 AM IST 2026] ok
+[watchdog Tue Aug 11 02:40:01 AM IST 2026] ok
+[watchdog Tue Aug 11 02:45:01 AM IST 2026] ok
+[Tue Aug 11 02:45:40 AM IST 2026] money-maker: OK (HTTP 200) | ollama: RUNNING
+[watchdog Tue Aug 11 02:50:02 AM IST 2026] ok
+[watchdog Tue Aug 11 02:55:01 AM IST 2026] ok
+[watchdog Tue Aug 11 03:00:01 AM IST 2026] ok
+[2026-08-11 03:00:50] money-maker: RUNNING (port 8800, pid 621) | ollama: RUNNING
+[watchdog Tue Aug 11 03:05:01 AM IST 2026] ok
+[watchdog Tue Aug 11 03:10:01 AM IST 2026] ok
+[watchdog Tue Aug 11 03:15:01 AM IST 2026] ok
+[2026-08-11 03:15:42] money-maker: OK (HTTP 200) | ollama: RUNNING
+[watchdog Tue Aug 11 03:20:01 AM IST 2026] ok
+[watchdog Tue Aug 11 03:25:01 AM IST 2026] ok
+[watchdog Tue Aug 11 03:30:02 AM IST 2026] ok
+[2026-08-11 03:30:39] OK: money-maker on :8800 (pid=621), ollama running
+[watchdog Tue Aug 11 03:35:01 AM IST 2026] ok
+[watchdog Tue Aug 11 03:40:01 AM IST 2026] ok
+[watchdog Tue Aug 11 03:45:01 AM IST 2026] ok
+2026-08-11 03:45:40 | money-maker: OK (HTTP 200 on :8800) | ollama: RUNNING
+[watchdog Tue Aug 11 03:50:01 AM IST 2026] ok
+[watchdog Tue Aug 11 03:55:01 AM IST 2026] ok
+[watchdog Tue Aug 11 04:00:01 AM IST 2026] ok
+2026-08-11 04:01:01 money-maker=OK(pid=621,port=8800) ollama=OK
+[watchdog Tue Aug 11 04:05:01 AM IST 2026] ok
+[watchdog Tue Aug 11 04:10:01 AM IST 2026] ok
+[watchdog Tue Aug 11 04:15:01 AM IST 2026] ok
+2026-08-11 04:15:45 | money-maker:OK port=8800 pid=621 | ollama:OK
+[watchdog Tue Aug 11 04:20:01 AM IST 2026] ok
+[watchdog Tue Aug 11 04:25:01 AM IST 2026] ok
+[watchdog Tue Aug 11 04:30:01 AM IST 2026] ok
+[2026-08-11 04:30:45] watchdog: money-maker engine UP on :8800 (pid=621), ollama UP
+[watchdog Tue Aug 11 04:35:01 AM IST 2026] ok
+[watchdog Tue Aug 11 04:40:01 AM IST 2026] ok
+[watchdog Tue Aug 11 04:45:01 AM IST 2026] ok
+2026-08-11 04:45:40 money-maker=OK ollama=OK
+[watchdog Tue Aug 11 04:50:01 AM IST 2026] ok
+[watchdog Tue Aug 11 04:55:01 AM IST 2026] ok
+[watchdog Tue Aug 11 05:00:02 AM IST 2026] ok
+[2026-08-11 05:00:41] Money-maker engine: UP (HTTP 404 from /health, server responding on port 8800) | Ollama: RUNNING
+[watchdog Tue Aug 11 05:05:01 AM IST 2026] ok
+[watchdog Tue Aug 11 05:10:01 AM IST 2026] ok
+[watchdog Tue Aug 11 05:15:01 AM IST 2026] ok
+2026-08-11 05:15:46 money-maker: UP (pid=621) | ollama: UP
+[watchdog Tue Aug 11 05:20:02 AM IST 2026] ok
+[watchdog Tue Aug 11 05:25:01 AM IST 2026] ok
+[watchdog Tue Aug 11 05:30:01 AM IST 2026] ok
+2026-08-11 05:30:44 money-maker=ON_PORT_8800 pid=620 ollama=RUNNING
+[watchdog Tue Aug 11 05:35:01 AM IST 2026] ok
+[watchdog Tue Aug 11 05:40:01 AM IST 2026] ok
+[watchdog Tue Aug 11 05:45:01 AM IST 2026] ok
+[2026-08-11 05:45:40 IST] money-maker: running (pid=621, port=8800) | ollama: running (pid=922)
+[watchdog Tue Aug 11 05:50:01 AM IST 2026] ok
+[watchdog Tue Aug 11 05:55:01 AM IST 2026] ok
+[watchdog Tue Aug 11 06:00:02 AM IST 2026] ok
+[watchdog Tue Aug 11 06:05:01 AM IST 2026] ok
+[watchdog Tue Aug 11 06:10:02 AM IST 2026] ok
+[2026-08-11 06:11:34] money-maker: OK (HTTP 200 on :8800) | ollama: RUNNING
+[watchdog Tue Aug 11 06:15:01 AM IST 2026] ok
+2026-08-11T06:15:47+05:30 money-maker:UP(pid=621) ollama:UP
+[watchdog Tue Aug 11 06:20:01 AM IST 2026] ok
+[watchdog Tue Aug 11 06:25:01 AM IST 2026] ok
+[watchdog Tue Aug 11 06:30:02 AM IST 2026] ok
+2026-08-11 06:30:45 - CHECK: money-maker=OK (HTTP 200), ollama=OK
+[watchdog Tue Aug 11 06:35:01 AM IST 2026] ok
+[watchdog Tue Aug 11 06:40:01 AM IST 2026] ok
+[watchdog Tue Aug 11 06:45:01 AM IST 2026] ok
+2026-08-11 06:45:44 IST money-maker:ON ollama:ON
+[watchdog Tue Aug 11 06:50:02 AM IST 2026] ok
+[watchdog Tue Aug 11 06:55:01 AM IST 2026] ok
+[watchdog Tue Aug 11 07:00:01 AM IST 2026] ok
+[2026-08-11 07:00:43 IST] money-maker engine running on 8800 (pid=621); ollama serve running
+[watchdog Tue Aug 11 07:05:01 AM IST 2026] ok
+[watchdog Tue Aug 11 07:10:01 AM IST 2026] ok
+[watchdog Tue Aug 11 07:15:01 AM IST 2026] ok
+[2026-08-11T07:15:53+05:30] money-maker=RUNNING ollama=RUNNING
+[watchdog Tue Aug 11 07:20:01 AM IST 2026] ok
+[watchdog Tue Aug 11 07:25:01 AM IST 2026] ok
+[watchdog Tue Aug 11 07:30:01 AM IST 2026] ok
+2026-08-11 07:30:52 money-maker engine running on 8800 pid=621; ollama running
+[watchdog Tue Aug 11 07:35:01 AM IST 2026] ok
+[watchdog Tue Aug 11 07:40:01 AM IST 2026] ok
+[watchdog Tue Aug 11 07:45:02 AM IST 2026] ok
+2026-08-11 07:45:53 money-maker engine: UP (pid 621, port 8800); ollama: UP
+[watchdog Tue Aug 11 07:50:01 AM IST 2026] ok
+[watchdog Tue Aug 11 07:55:02 AM IST 2026] ok
+[watchdog Tue Aug 11 08:00:01 AM IST 2026] ok
+2026-08-11 08:00:44 money-maker=OK(200) ollama=OK
+[watchdog Tue Aug 11 08:05:02 AM IST 2026] ok
+[watchdog Tue Aug 11 08:10:01 AM IST 2026] ok
+[watchdog Tue Aug 11 08:15:01 AM IST 2026] ok
+2026-08-11 08:16:14 - Watchdog check
+money-maker: RUNNING (HTTP 200)
+ollama: RUNNING
+---
+[watchdog Tue Aug 11 08:20:01 AM IST 2026] ok
+[watchdog Tue Aug 11 08:25:02 AM IST 2026] ok
+[watchdog Tue Aug 11 08:30:01 AM IST 2026] ok
+[2026-08-11 08:31:30] money-maker: OK (port 8800) | ollama: OK (pid 922, port 11434)
+[watchdog Tue Aug 11 08:35:01 AM IST 2026] ok
+[watchdog Tue Aug 11 08:40:01 AM IST 2026] ok
+[watchdog Tue Aug 11 08:45:01 AM IST 2026] ok
+[Tue Aug 11 08:45:47 AM IST 2026] money-maker: OK (HTTP 200 on :8800) | ollama: RUNNING
+[watchdog Tue Aug 11 08:50:01 AM IST 2026] ok
+[watchdog Tue Aug 11 08:55:01 AM IST 2026] ok
+[watchdog Tue Aug 11 09:00:01 AM IST 2026] ok
+[watchdog Tue Aug 11 09:05:01 AM IST 2026] ok
+[watchdog Tue Aug 11 09:10:01 AM IST 2026] ok
+2026-08-11 09:11:29 — CHECK: money-maker engine on 8800=RUNNING (pid=621 python3) | ollama=RUNNING
+[watchdog Tue Aug 11 09:15:01 AM IST 2026] ok
+2026-08-11 09:15:47 | money-maker=OK(8800) ollama=OK
+[watchdog Tue Aug 11 09:20:01 AM IST 2026] ok
+[watchdog Tue Aug 11 09:25:01 AM IST 2026] ok
+[watchdog Tue Aug 11 09:30:01 AM IST 2026] ok
+[2026-08-11 09:30:55 IST] money-maker: OK (HTTP 200 on :8800) | ollama: OK (PID 922)
+[watchdog Tue Aug 11 09:35:01 AM IST 2026] ok
+[watchdog Tue Aug 11 09:40:01 AM IST 2026] ok
+[watchdog Tue Aug 11 09:45:01 AM IST 2026] ok
+[2026-08-11 09:45:52] money-maker: OK (HTTP 200), ollama: RUNNING
+[watchdog Tue Aug 11 09:50:01 AM IST 2026] ok
+[watchdog Tue Aug 11 09:55:02 AM IST 2026] ok
+[watchdog Tue Aug 11 10:00:01 AM IST 2026] ok
+2026-08-11 10:00:52 | money-maker: OK (HTTP 200) | ollama: RUNNING
+[watchdog Tue Aug 11 10:05:01 AM IST 2026] ok
+[watchdog Tue Aug 11 10:10:01 AM IST 2026] ok
+[watchdog Tue Aug 11 10:15:01 AM IST 2026] ok
+2026-08-11T10:15:50+05:30 money-maker=OK(200) ollama=OK
+[watchdog Tue Aug 11 10:20:01 AM IST 2026] ok
+[watchdog Tue Aug 11 10:25:01 AM IST 2026] ok
+[watchdog Tue Aug 11 10:30:01 AM IST 2026] ok
+2026-08-11 10:30:49 money-maker=ON(pid621) ollama=ON
+[watchdog Tue Aug 11 10:35:01 AM IST 2026] ok
+[watchdog Tue Aug 11 10:40:01 AM IST 2026] ok
+[watchdog Tue Aug 11 10:45:01 AM IST 2026] ok
+2026-08-11 10:45:59 - CHECK - money-maker engine on 8800: OK (HTTP 200) | Ollama: RUNNING | No action needed
+[watchdog Tue Aug 11 10:50:01 AM IST 2026] ok
+[watchdog Tue Aug 11 10:55:01 AM IST 2026] ok
+[watchdog Tue Aug 11 11:00:01 AM IST 2026] ok
+2026-08-11 11:00:54 money-maker: running on :8800 (pid 621); ollama: running
+[watchdog Tue Aug 11 11:05:02 AM IST 2026] ok
+[watchdog Tue Aug 11 11:10:01 AM IST 2026] ok
+[watchdog Tue Aug 11 11:15:01 AM IST 2026] ok
+2026-08-11 11:15:57 | money-maker engine running on port 8800 (pid=621) | ollama running (pid=922 + llama-servers)
+[watchdog Tue Aug 11 11:20:01 AM IST 2026] ok
+[watchdog Tue Aug 11 11:25:01 AM IST 2026] ok
+[watchdog Tue Aug 11 11:30:01 AM IST 2026] ok
+2026-08-11 11:31:01 money-maker: running on :8800 (pid=621); ollama: running
+[watchdog Tue Aug 11 11:35:01 AM IST 2026] ok
+[watchdog Tue Aug 11 11:40:01 AM IST 2026] ok
+[watchdog Tue Aug 11 11:45:01 AM IST 2026] ok
+2026-08-11 11:46:02 | money-maker: OK (HTTP 200) | ollama: RUNNING
+[watchdog Tue Aug 11 11:50:01 AM IST 2026] ok
+[watchdog Tue Aug 11 11:55:01 AM IST 2026] ok
+[watchdog Tue Aug 11 12:00:01 PM IST 2026] ok
+[watchdog Tue Aug 11 12:05:01 PM IST 2026] ok
+[watchdog Tue Aug 11 12:10:01 PM IST 2026] ok
+2026-08-11 12:11:40 money-maker=Running(pid=621) ollama=Running
+[watchdog Tue Aug 11 12:15:01 PM IST 2026] ok
+2026-08-11 12:16:04 money-maker=OK(200) ollama=OK
+[watchdog Tue Aug 11 12:20:01 PM IST 2026] ok
+[watchdog Tue Aug 11 12:25:02 PM IST 2026] ok
+[watchdog Tue Aug 11 12:30:01 PM IST 2026] ok
+2026-08-11 12:30:55 money-maker=OK ollama=OK
+[watchdog Tue Aug 11 12:35:01 PM IST 2026] ok
+[watchdog Tue Aug 11 12:40:01 PM IST 2026] ok
+[watchdog Tue Aug 11 12:45:02 PM IST 2026] ok
+2026-08-11 12:46:01 IST | money-maker=OK:8800 | ollama=OK
+[watchdog Tue Aug 11 12:50:01 PM IST 2026] ok
+[watchdog Tue Aug 11 12:55:01 PM IST 2026] ok
+[watchdog Tue Aug 11 01:00:02 PM IST 2026] ok
+[2026-08-11 13:01:17] money-maker: OK (HTTP 200), ollama: RUNNING
+[watchdog Tue Aug 11 01:05:01 PM IST 2026] ok
+[watchdog Tue Aug 11 01:10:01 PM IST 2026] ok
+[watchdog Tue Aug 11 01:15:02 PM IST 2026] ok
+2026-08-11 13:16:00 money-maker=OK(port8800) ollama=OK
+[watchdog Tue Aug 11 01:20:01 PM IST 2026] ok
+[watchdog Tue Aug 11 01:25:01 PM IST 2026] ok
+[watchdog Tue Aug 11 01:30:01 PM IST 2026] ok
+2026-08-11 13:31:00 IST money-maker=OK(port8800) ollama=OK
+[watchdog Tue Aug 11 01:35:01 PM IST 2026] ok
+[watchdog Tue Aug 11 01:40:01 PM IST 2026] ok
+[watchdog Tue Aug 11 01:45:01 PM IST 2026] ok
+2026-08-11 13:46:02 | money-maker: RUNNING (localhost:8800 responded 200) | ollama: RUNNING (PID 922) | action: none
+[watchdog Tue Aug 11 01:50:02 PM IST 2026] ok
+[watchdog Tue Aug 11 01:55:01 PM IST 2026] ok
+[watchdog Tue Aug 11 02:00:01 PM IST 2026] ok
+2026-08-11 14:01:05 IST money-maker engine: RUNNING on :8800 (pid=621); ollama: RUNNING (pid=922)
+[watchdog Tue Aug 11 02:05:01 PM IST 2026] ok
+[watchdog Tue Aug 11 02:10:01 PM IST 2026] ok
+[watchdog Tue Aug 11 02:15:01 PM IST 2026] ok
+2026-08-11 14:16:02 | money-maker: OK (HTTP 200) | ollama: running
+[watchdog Tue Aug 11 02:20:01 PM IST 2026] ok
+[watchdog Tue Aug 11 02:25:01 PM IST 2026] ok
+[watchdog Tue Aug 11 02:30:01 PM IST 2026] ok
+[2026-08-11 14:31:01] CHECK: money-maker engine on :8800 -> HTTP 200 (OK); ollama serve -> PID 922 (OK); action=no restart needed
+[watchdog Tue Aug 11 02:35:01 PM IST 2026] ok
+[watchdog Tue Aug 11 02:40:02 PM IST 2026] ok
+[watchdog Tue Aug 11 02:45:01 PM IST 2026] ok
+2026-08-11 14:46:12 | money-maker: RUNNING (pid 621, port 8800) | ollama: RUNNING
+[watchdog Tue Aug 11 02:50:01 PM IST 2026] ok
+[watchdog Tue Aug 11 02:55:01 PM IST 2026] ok
+[watchdog Tue Aug 11 03:00:01 PM IST 2026] ok
+[2026-08-11 15:03:13] money-maker engine: OK (HTTP 200 on :8800) | ollama: RUNNING | action: none
+[watchdog Tue Aug 11 03:05:02 PM IST 2026] ok
+[watchdog Tue Aug 11 03:10:01 PM IST 2026] ok
+[watchdog Tue Aug 11 03:15:01 PM IST 2026] ok
+[2026-08-11 15:16:04] money-maker: RUNNING (port 8800) | ollama: RUNNING
+[watchdog Tue Aug 11 03:20:01 PM IST 2026] ok
+[watchdog Tue Aug 11 03:25:01 PM IST 2026] ok
+[watchdog Tue Aug 11 03:30:01 PM IST 2026] ok
+[2026-08-11 15:31:11] OK — money-maker 8800=200, ollama=running
+[watchdog Tue Aug 11 03:35:01 PM IST 2026] ok
+[watchdog Tue Aug 11 03:40:01 PM IST 2026] ok
+[watchdog Tue Aug 11 03:45:01 PM IST 2026] ok
+2026-08-11 15:46:05 - CHECK: money-maker OK (HTTP 200), ollama OK
+[watchdog Tue Aug 11 03:50:01 PM IST 2026] ok
+[watchdog Tue Aug 11 03:55:01 PM IST 2026] ok
+[watchdog Tue Aug 11 04:00:01 PM IST 2026] ok
+=== Money-Maker Watchdog ===
+2026-08-11T16:01:28+05:30
+money-maker: running
+ollama: running
+[watchdog Tue Aug 11 04:05:01 PM IST 2026] ok
+[watchdog Tue Aug 11 04:10:01 PM IST 2026] ok
+[watchdog Tue Aug 11 04:15:01 PM IST 2026] ok
+[watchdog Tue Aug 11 04:20:01 PM IST 2026] ok
+[watchdog Tue Aug 11 04:25:01 PM IST 2026] ok
+[watchdog Tue Aug 11 04:30:01 PM IST 2026] ok
+2026-08-11 16:31:11 money-maker=OK port=8800 ollama=OK
+[watchdog Tue Aug 11 04:35:01 PM IST 2026] ok
+[watchdog Tue Aug 11 04:40:01 PM IST 2026] ok
+[watchdog Tue Aug 11 04:45:01 PM IST 2026] ok
+2026-08-11 16:46:07 money-maker=OK(200) ollama=OK
+[watchdog Tue Aug 11 04:50:01 PM IST 2026] ok
+[watchdog Tue Aug 11 04:55:01 PM IST 2026] ok
+[watchdog Tue Aug 11 05:00:02 PM IST 2026] ok
+[2026-08-11 17:01:15] money-maker: OK (HTTP 200), ollama: RUNNING
+[watchdog Tue Aug 11 05:05:01 PM IST 2026] ok
+[watchdog Tue Aug 11 05:10:01 PM IST 2026] ok
+[watchdog Tue Aug 11 05:15:01 PM IST 2026] ok
+2026-08-11 17:16:05 - money-maker: OK (HTTP 200) | ollama: RUNNING (PID 922)
+[watchdog Tue Aug 11 05:20:01 PM IST 2026] ok
+[watchdog Tue Aug 11 05:25:01 PM IST 2026] ok
+[watchdog Tue Aug 11 05:30:01 PM IST 2026] ok
+2026-08-11 17:31:13 money-maker=OK(200) ollama=OK
+[watchdog Tue Aug 11 05:35:01 PM IST 2026] ok
+[watchdog Tue Aug 11 05:40:01 PM IST 2026] ok
+[watchdog Tue Aug 11 05:45:01 PM IST 2026] ok
+2026-08-11 17:46:10 money-maker=RUNNING(pid=621) ollama=RUNNING
+[watchdog Tue Aug 11 05:50:01 PM IST 2026] ok
+[watchdog Tue Aug 11 05:55:01 PM IST 2026] ok
+[watchdog Tue Aug 11 06:00:01 PM IST 2026] ok
+[2026-08-11T18:04:42+05:30] money-maker engine: RUNNING on :8800 (pid=621) | ollama serve: RUNNING (pid=922)
+[watchdog Tue Aug 11 06:05:01 PM IST 2026] ok
+[watchdog Tue Aug 11 06:10:01 PM IST 2026] ok
+[watchdog Tue Aug 11 06:15:01 PM IST 2026] ok
+[2026-08-11 18:16:16] money-maker restart initiated
+[2026-08-11 18:16:57] STATUS: money-maker=RUNNING ollama=RUNNING port_8800=LISTENING
+[watchdog Tue Aug 11 06:20:01 PM IST 2026] ok
+[watchdog Tue Aug 11 06:25:01 PM IST 2026] ok
+[watchdog Tue Aug 11 06:30:02 PM IST 2026] ok
+2026-08-11 18:31:06 - money-maker: OK (localhost:8800 returned 200), ollama: RUNNING
+[watchdog Tue Aug 11 06:35:01 PM IST 2026] ok
+[watchdog Tue Aug 11 06:40:01 PM IST 2026] ok
+[watchdog Tue Aug 11 06:45:01 PM IST 2026] ok
+2026-08-11 18:46:31 IST | money-maker=OK(8800/200) | ollama=OK
+[watchdog Tue Aug 11 06:50:01 PM IST 2026] ok
+[watchdog Tue Aug 11 06:55:02 PM IST 2026] ok
+[watchdog Tue Aug 11 07:00:01 PM IST 2026] ok
+2026-08-11 19:01:09 money-maker engine OK on :8800 (pid=4114596) | ollama OK
+[watchdog Tue Aug 11 07:05:01 PM IST 2026] ok
+[watchdog Tue Aug 11 07:10:01 PM IST 2026] ok
+[watchdog Tue Aug 11 07:15:01 PM IST 2026] ok
+[2026-08-11 19:16:27] money-maker: RUNNING (python3 pid=4114596, Ollama: RUNNING (pid=922)
+[watchdog Tue Aug 11 07:20:01 PM IST 2026] ok
+[watchdog Tue Aug 11 07:25:01 PM IST 2026] ok
+[watchdog Tue Aug 11 07:30:01 PM IST 2026] ok
+[2026-08-11 19:31:19] money-maker engine on port 8800: RUNNING (pid=4114596) | Ollama: RUNNING
+[watchdog Tue Aug 11 07:35:01 PM IST 2026] ok
+[watchdog Tue Aug 11 07:40:02 PM IST 2026] ok
+[watchdog Tue Aug 11 07:45:01 PM IST 2026] ok
+2026-08-11 19:45:21 - CHECK: money-maker on :8800 LISTENING (pid 4114596), Ollama RUNNING
+[watchdog Tue Aug 11 07:50:01 PM IST 2026] ok
+[watchdog Tue Aug 11 07:55:01 PM IST 2026] ok
+[watchdog Tue Aug 11 08:00:01 PM IST 2026] ok
+[2026-08-11 20:00:30] money-maker: running on :8800 | ollama: running (pid=922)
+[watchdog Tue Aug 11 08:05:02 PM IST 2026] ok
+[watchdog Tue Aug 11 08:10:01 PM IST 2026] ok
+[watchdog Tue Aug 11 08:15:01 PM IST 2026] ok
+[2026-08-11 20:15:21] money-maker: RUNNING on :8800 | ollama: RUNNING (pid 922)
+[watchdog Tue Aug 11 08:20:01 PM IST 2026] ok
+[watchdog Tue Aug 11 08:25:01 PM IST 2026] ok
+[watchdog Tue Aug 11 08:30:01 PM IST 2026] ok
+2026-08-11 20:30:12 - money-maker engine running on port 8800 (PID 4114596), Ollama running
+[watchdog Tue Aug 11 08:35:02 PM IST 2026] ok
+[watchdog Tue Aug 11 08:40:01 PM IST 2026] ok
+[watchdog Tue Aug 11 08:45:01 PM IST 2026] ok
+2026-08-11 20:45:11 WATCHDOG CHECK START
+2026-08-11 20:45:18 money-maker=UP port=8800 http=404 ollama=UP no_action
+[watchdog Tue Aug 11 08:50:01 PM IST 2026] ok
+[watchdog Tue Aug 11 08:55:01 PM IST 2026] ok
+[watchdog Tue Aug 11 09:00:01 PM IST 2026] ok
+[2026-08-11 21:00:55] money-maker: UP (HTTP 200) | ollama: RUNNING
+[watchdog Tue Aug 11 09:05:01 PM IST 2026] ok
+[watchdog Tue Aug 11 09:10:01 PM IST 2026] ok
+[watchdog Tue Aug 11 09:15:01 PM IST 2026] ok
+[2026-08-11 21:15:25] money-maker engine (localhost:8800): HTTP 200
+[2026-08-11 21:15:25] Ollama: running
+[watchdog Tue Aug 11 09:20:01 PM IST 2026] ok
+[watchdog Tue Aug 11 09:25:02 PM IST 2026] ok
+[watchdog Tue Aug 11 09:30:01 PM IST 2026] ok
+2026-08-11 21:30:19 OK money-maker running on :8800 pid=3198 3425 38444 38447 3205949 4114595 4114596 ; ollama running
+[watchdog Tue Aug 11 09:35:01 PM IST 2026] ok
+[watchdog Tue Aug 11 09:40:01 PM IST 2026] ok
+[watchdog Tue Aug 11 09:45:01 PM IST 2026] ok
+[2026-08-11 21:45:16] money-maker=OK(http200) ollama=OK(pid922)
+[watchdog Tue Aug 11 09:50:02 PM IST 2026] ok
+[watchdog Tue Aug 11 09:55:01 PM IST 2026] ok
+[watchdog Tue Aug 11 10:00:01 PM IST 2026] ok
+2026-08-11 22:00:16 | money-maker: UP (HTTP 200) | ollama: RUNNING
+[watchdog Tue Aug 11 10:05:01 PM IST 2026] ok
+[watchdog Tue Aug 11 10:10:01 PM IST 2026] ok
+[watchdog Tue Aug 11 10:15:01 PM IST 2026] ok
+2026-08-11 22:15:48 | money-maker OK on :8800 (pid=4114596) | ollama OK
+[watchdog Tue Aug 11 10:20:01 PM IST 2026] ok
+[watchdog Tue Aug 11 10:25:01 PM IST 2026] ok
+[watchdog Tue Aug 11 10:30:01 PM IST 2026] ok
+2026-08-11 22:30:30 | money-maker=OK(pid=4114596) | ollama=OK(pid=922)
+[watchdog Tue Aug 11 10:35:01 PM IST 2026] ok
+[watchdog Tue Aug 11 10:40:01 PM IST 2026] ok
+[watchdog Tue Aug 11 10:45:01 PM IST 2026] ok
+[2026-08-11 22:45:22] money-maker=UP(200) ollama=UP(pid=922)
+[watchdog Tue Aug 11 10:50:01 PM IST 2026] ok
+[watchdog Tue Aug 11 10:55:01 PM IST 2026] ok
+[watchdog Tue Aug 11 11:00:01 PM IST 2026] ok
+2026-08-11 23:00:26 | money-maker:UP (HTTP 404 on /health, server listening) | ollama:UP
+[watchdog Tue Aug 11 11:05:01 PM IST 2026] ok
+[watchdog Tue Aug 11 11:10:01 PM IST 2026] ok
+[watchdog Tue Aug 11 11:15:01 PM IST 2026] ok
+2026-08-11 23:16:04 - CHECK: money-maker=OK (200), ollama=OK
+[watchdog Tue Aug 11 11:20:02 PM IST 2026] ok
+[watchdog Tue Aug 11 11:25:01 PM IST 2026] ok
+[watchdog Tue Aug 11 11:30:01 PM IST 2026] ok
+2026-08-11 23:31:17 - money-maker: RUNNING (PID 4114596, port 8800) | ollama: RUNNING
+[watchdog Tue Aug 11 11:35:02 PM IST 2026] ok
