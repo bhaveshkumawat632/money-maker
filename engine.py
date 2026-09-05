@@ -109,9 +109,14 @@ SITE_NAME = site_cfg.get("name", "Money Maker Blog")
 DOMAIN = site_cfg.get("domain", "https://your-domain.com")
 TAGLINE = site_cfg.get("tagline", "")
 LANG = site_cfg.get("language", "en")
-CURRENCY = site_cfg.get("currency", "₹")
-COUNTRY = site_cfg.get("country", "IN")
-KEYWORDS = "पैसा कमाएं, निवेश, SIP, म्यूचुअल फंड, बचत, टैक्स, बजट, भारत में फाइनेंस, पैसा बचाएं, ऑनलाइन कमाएं"
+CURRENCY = site_cfg.get("currency", "$")
+COUNTRY = site_cfg.get("country", "GLOBAL")
+KEYWORDS = site_cfg.get("keywords")
+if not KEYWORDS:
+    if LANG == "hi":
+        KEYWORDS = "पैसा कमाएं, निवेश, SIP, म्यूचुअल फंड, बचत, टैक्स, बजट, भारत में फाइनेंस, पैसा बचाएं, ऑनलाइन कमाएं"
+    else:
+        KEYWORDS = "earn money, investing, index funds, savings, tax, budget, global wealth, save money, online income"
 ENGINE_LANG = engine_cfg.get("language", "english")
 
 
@@ -202,7 +207,7 @@ def quality_score(md_text: str) -> dict:
     return results
 
 # Fallback model chain — if one model fails or OOM, try next
-MODEL_CHAIN = ["qwen2.5:7b", "deepseek-hermes:7b", "deepseek-r1:7b", "hermes-1.5b"]
+MODEL_CHAIN = ["qwen2.5:7b", "qwen2.5-coder:7b", "llama3.1:8b"]
 
 def ollama_generate(prompt: str, temperature: float = 0.7) -> str:
     """Call local Ollama chat API. Returns generated text or '' on failure."""
@@ -231,7 +236,7 @@ def ollama_generate(prompt: str, temperature: float = 0.7) -> str:
             headers={"Content-Type": "application/json"},
         )
         try:
-            with urllib.request.urlopen(req, timeout=420) as resp:
+            with urllib.request.urlopen(req, timeout=90) as resp:
                 out = json.loads(resp.read().decode("utf-8"))
             return out.get("message", {}).get("content", "").strip()
         except urllib.error.URLError as e:
@@ -242,8 +247,73 @@ def ollama_generate(prompt: str, temperature: float = 0.7) -> str:
             log(f"Ollama unexpected error with {attempt_model}: {e}")
             last_error = str(e)
             continue
-        log(f"All Ollama models failed. Last error: {last_error}")
-        return ""
+    log(f"All Ollama models failed. Last error: {last_error}")
+    
+    # Fallback to Groq API if GROQ_API_KEY is available
+    groq_key = os.environ.get("GROQ_API_KEY")
+    if groq_key:
+        log("Trying Groq API fallback...")
+        try:
+            payload = {
+                "model": "llama-3.3-70b-versatile",
+                "messages": [
+                    {"role": "system", "content": "You are an expert SEO content writer. Write clear, helpful, original articles for beginner readers. Use short paragraphs, headings, and a friendly tone. No fluff, no repetition."},
+                    {"role": "user", "content": prompt}
+                ],
+                "temperature": temperature
+            }
+            data = json.dumps(payload).encode("utf-8")
+            req = urllib.request.Request(
+                "https://api.groq.com/openai/v1/chat/completions",
+                data=data,
+                headers={
+                    "Content-Type": "application/json",
+                    "Authorization": f"Bearer {groq_key}",
+                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+                }
+            )
+            with urllib.request.urlopen(req, timeout=120) as resp:
+                out = json.loads(resp.read().decode("utf-8"))
+            content = out["choices"][0]["message"]["content"].strip()
+            if content:
+                log("Groq API fallback successful!")
+                return content
+        except Exception as e:
+            log(f"Groq fallback failed: {e}")
+
+    # Fallback to OpenRouter API if OPENROUTER_API_KEY is available
+    openrouter_key = os.environ.get("OPENROUTER_API_KEY")
+    if openrouter_key:
+        log("Trying OpenRouter API fallback...")
+        try:
+            payload = {
+                "model": "meta-llama/llama-3.1-70b-instruct",
+                "messages": [
+                    {"role": "system", "content": "You are an expert SEO content writer. Write clear, helpful, original articles for beginner readers. Use short paragraphs, headings, and a friendly tone. No fluff, no repetition."},
+                    {"role": "user", "content": prompt}
+                ],
+                "temperature": temperature
+            }
+            data = json.dumps(payload).encode("utf-8")
+            req = urllib.request.Request(
+                "https://openrouter.ai/api/v1/chat/completions",
+                data=data,
+                headers={
+                    "Content-Type": "application/json",
+                    "Authorization": f"Bearer {openrouter_key}",
+                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+                }
+            )
+            with urllib.request.urlopen(req, timeout=120) as resp:
+                out = json.loads(resp.read().decode("utf-8"))
+            content = out["choices"][0]["message"]["content"].strip()
+            if content:
+                log("OpenRouter API fallback successful!")
+                return content
+        except Exception as e:
+            log(f"OpenRouter fallback failed: {e}")
+
+    return ""
 
 
 AUTO_TAG_KEYWORDS = {
@@ -1069,12 +1139,12 @@ def write_static_pages():
         "<div class='meta' id='d-earn'>—</div></div>"
         "</div>"
         "<script>"
-        "fetch('/stats.json').then(r=>r.json()).then(s=>{"
+        "fetch('/data/stats.json').then(r=>r.ok?r.json():Promise.reject()).then(s=>{"
         "document.getElementById('d-gen').textContent=s.generated||0;"
         "document.getElementById('d-imp').textContent=s.impressions||0;"
         "document.getElementById('d-lead').textContent=s.leads||0;"
-        "document.getElementById('d-earn').textContent='₹ '+(s.earnings_estimate||0).toFixed(2);"
-        "});</script>"
+        "document.getElementById('d-earn').textContent='₹ '+Number(s.earnings_estimate||0).toFixed(2);"
+        "}).catch(()=>{document.getElementById('d-earn').textContent='Data unavailable';});</script>"
     )
     (SITE_DIR / "dashboard.html").write_text(_legal_page(_t("Live Dashboard", "लाइव डैशबोर्ड"), dash), encoding="utf-8")
 
@@ -1192,6 +1262,7 @@ def run_tracker(host="0.0.0.0", port=8800):
         def log_message(self, *a):
             pass  # quiet
 
+        socketserver.TCPServer.allow_reuse_address = True
     with socketserver.TCPServer((host, port), Handler) as httpd:
         log(f"Tracker server running at http://{host}:{port}")
         httpd.serve_forever()

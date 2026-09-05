@@ -20,5 +20,5 @@ git add -A
 git commit -q -m "deploy $(date -u +%Y-%m-%dT%H:%M:%SZ)"
 git branch -M main
 echo "[deploy] pushing ..."
-printf "https://%s@github.com\n" "$GH_TOKEN" | git credential fill 2>/dev/null | git push -f "https://x-token-auth@github.com/${GH_USER}/${GH_REPO}.git" main
+git push -f "https://${GH_TOKEN}@github.com/${GH_USER}/${GH_REPO}.git" main
 echo "✅ Done! https://${GH_REPO}"

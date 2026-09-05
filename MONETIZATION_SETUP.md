@@ -63,10 +63,8 @@ New articles pick up IDs automatically on the next 15-min cycle.
 - ✅ Cloudflare tunnel: `tunnel.sh` running → site public
 - ✅ `./index_now.sh` auto-detects live URL, submits all articles via
   IndexNow (Bing/Yandex/etc). Add to cron: `0 9 * * * ~/money-maker/index_now.sh`
-- ⬜ **Google Search Console** (Google dropped anonymous ping): after you have
-  a stable domain, add it at https://search.google.com/search-console and
-  submit `sitemap.xml` once. This is the #1 traffic unlock.
-- ⬜ Stable domain via `./deploy.sh` (GitHub Pages) — needed for AdSense anyway.
+- ✅ **Google Search Console** (Google dropped anonymous ping): added stable domain at https://search.google.com/search-console and submitted sitemap.xml.
+- ✅ Stable domain deployed via `./deploy.sh` (GitHub Pages) -> https://bhaveshkumawat632.github.io
 
 **Order of operations:** deploy.sh → Search Console → Amazon Associates →
 Groww referral → AdSense (last, once traffic exists).
