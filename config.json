@@ -2,10 +2,10 @@
   "site": {
     "name": "Global Wealth Guide",
     "domain": "https://bhaveshkumawat632.github.io",
-    "tagline": "Your global wealth + tech guide — earn, save, and grow your money anywhere.",
-    "language": "en",
-    "currency": "$",
-    "country": "GLOBAL"
+    "tagline": "Your global wealth + tech guide \u2014 earn, save, and grow your money anywhere.",
+    "language": "hi",
+    "currency": "\u20b9",
+    "country": "INDIA"
   },
   "engine": {
     "model": "qwen2.5:7b",
@@ -13,8 +13,8 @@
     "words_per_article": 500,
     "run_every_minutes": 10,
     "max_posts": 800,
-    "language": "english",
-    "content_mode": "ollama",
+    "language": "hindi",
+    "content_mode": "template",
     "ai_settings": {
       "model": "qwen2.5:7b",
       "ollama_url": "http://127.0.0.1:11434",
@@ -57,13 +57,13 @@
     "The Ultimate Guide to Tax-Advantaged Savings Accounts"
   ],
   "affiliate": {
-    "amazon_tag": "globalwealth-20",
+    "amazon_tag": "bhaveshmoney-21",
     "hosting_url": "https://www.hostinger.com/?ref=yourid",
     "webhostingpad_url": "https://your-affiliate-link-here.com",
     "software_tool_url": "https://your-affiliate-link-here.com",
     "mutual_fund_url": "https://your-broker-affiliate-link.com",
     "adsense_client": "ca-pub-3041951952998611",
-    "adsense_slot": "0000000000",
+    "adsense_slot": "1234567890",
     "telegram_channel": "https://t.me/+4csvUXLgseZjNWQ1",
     "upi_id": "8591663742@kotak811",
     "upi_name": "Global Wealth Admin"
