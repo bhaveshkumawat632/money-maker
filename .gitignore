@@ -12,3 +12,9 @@ data/*.out
 
 # Backups
 *.bak
+data/*.log
+data/*.out
+data/*.pid
+data/tunnel.url
+data/boot.log
+data/cf.log
